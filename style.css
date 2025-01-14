@@ -1,8 +1,18 @@
 
+
+
+.header-main,
 .header {
     font-family: Courier, Lucida, monospace;
-    font-size: 24px;
 }
+
+.header-main {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 1000;
+}
+
+.header {font-size: 24px;}
 
 .description {
     font-family: Times, Georgia, serif;
