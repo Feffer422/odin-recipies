@@ -12,6 +12,11 @@
     font-weight: 1000;
 }
 
+.header-main,
+.Home-Title {
+    text-decoration: underline;
+}
+
 .recipies {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
