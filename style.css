@@ -75,3 +75,17 @@ html {background-color: #f4f5f5;}
     height: auto;
 }
 
+.home-pic#brownie-pic {
+    width: 450px;
+    height: auto;
+}
+
+.home-pic#la-king-pic {
+    width: 280px;
+    height: auto;
+}
+
+.home-pic#chicken-pic {
+    width: 200px;
+    height: auto;
+}
