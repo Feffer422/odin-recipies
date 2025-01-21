@@ -15,7 +15,18 @@
 #home-title {
     text-decoration: underline;
     text-align: center;
+    border-color: black;
+    margin-left: -20px;
+    margin-right: -20px;
+    border-bottom: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+
 }
+
+
 
 .recipies {
     font-family: Arial, Helvetica, sans-serif;
