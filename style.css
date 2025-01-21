@@ -60,17 +60,17 @@ html {background-color: #f4f5f5;}
     font-weight: 600;
 }
 
-#brownie-pic {
+.recipie-pic#brownie-pic {
     width: 450px;
     height: auto;
 }
 
-#la-king-pic {
+.recipie-pic#la-king-pic {
     width: 280px;
     height: auto;
 }
 
-#chicken-pic {
+.recipie-pic#chicken-pic {
     width: 400px;
     height: auto;
 }
