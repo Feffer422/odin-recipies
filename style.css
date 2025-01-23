@@ -107,7 +107,8 @@ html {background-color: #f4f5f5;}
 #chicken-link,
 #la-king-link,
 #brownie-link {
-    display:inline-block
+    display:inline-block;
+    text-decoration: none;
 }
 
 #chicken-link {
